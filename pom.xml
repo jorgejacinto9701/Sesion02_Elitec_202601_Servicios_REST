@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.empresa</groupId>
-	<artifactId>Sesion01_Elitec_202601_Backend</artifactId>
+	<artifactId>Sesion02_Elitec_202601_Servicios_REST</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Sesion01_Elitec_202601_Backend</name>
+	<name>Sesion02_Elitec_202601_Servicios_REST</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
